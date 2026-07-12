@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 # Hi, I'm Carlos 👋
  
 🎓 **Universidad de Alcalá** | 🤖 **AI applied to education & business** | 🇪🇸🇨🇳 **UAH × SISU Shanghai**
@@ -15,8 +15,6 @@
 </div>
 ## About me
  
-[#about-me](#about-me)
- 
 Researcher and lecturer focused on applying generative AI to real-world problems in **education, business, and public services**. I contribute to the **UAH × SISU Shanghai** programme, designing course material for Business Economics, and spend the rest of my time prototyping AI tools and side projects.
  
 - 🏫 Universidad de Alcalá — Spain
@@ -26,21 +24,15 @@ Researcher and lecturer focused on applying generative AI to real-world problems
 - 🦞 Following the AI agent scene closely — OpenClaw, Claude Code, and whatever ships next
 ## Projects
  
-[#projects](#projects)
- 
 - 📚 **[aws-partyrock-course](https://github.com/Carluve/aws-partyrock-course)** — A course on building generative AI apps without code using Amazon Bedrock/PartyRock: rapid prototyping, best practices and a closing hackathon challenge.
 - 🕹️ **[arkanoidcpp2ts](https://github.com/Carluve/arkanoidcpp2ts)** — Arkanoid, migrated from C++/SFML to TypeScript + HTML5 Canvas and deployed on Cloudflare Pages, built in a single vibe-coding session.
 - 🌐 **[carluve.github.io](https://github.com/Carluve/carluve.github.io)** — My personal portfolio site, showcasing projects and skills.
 - 📝 **[clase](https://github.com/Carluve/clase)** — Java coursework and practice exercises.
 ## GitHub Activity
  
-[#github-activity](#github-activity)
- 
 ![Carluve's contribution graph](https://ghchart.rshah.org/2f6feb/Carluve)
  
 ## Connect
- 
-[#connect](#connect)
  
 [![LinkedIn](https://img.shields.io/badge/-carlosluengo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosluengo/)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-2591-1210)
