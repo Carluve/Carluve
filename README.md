@@ -14,6 +14,7 @@
 🦞 *Keeping an eye on the agentic-engineering scene — [OpenClaw](https://openclaw.ai), Claude Code and the wider AI tooling wave.*
  
 </div>
+
 ## About me
  
 Researcher and lecturer focused on applying generative AI to real-world problems in **education, business, and public services**. I contribute to the **UAH × SISU Shanghai** programme, designing course material for Business Economics, and spend the rest of my time prototyping AI tools and side projects.
