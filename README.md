@@ -9,6 +9,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5%2FCanvas-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Carluve/arkanoidcpp2ts)
 [![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://github.com/Carluve/carluve.github.io)
 [![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/Carluve/arkanoidcpp2ts)
+[![Workers + Durable Objects](https://img.shields.io/badge/-Workers%20%2B%20Durable%20Objects-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/Carluve/BrowserQuest)
  
 🦞 *Keeping an eye on the agentic-engineering scene — [OpenClaw](https://openclaw.ai), Claude Code and the wider AI tooling wave.*
  
@@ -24,6 +25,7 @@ Researcher and lecturer focused on applying generative AI to real-world problems
 - 🦞 Following the AI agent scene closely — OpenClaw, Claude Code, and whatever ships next
 ## Projects
  
+- 🐉 **[BrowserQuest](https://github.com/Carluve/BrowserQuest)** — Mozilla’s HTML5 MMORPG ported natively to Cloudflare Workers + Durable Objects + SQLite (hibernatable WebSockets, Alarms game loop, RPC). **[Live demo](https://browserquest.carluve.workers.dev)**.
 - 📚 **[aws-partyrock-course](https://github.com/Carluve/aws-partyrock-course)** — A course on building generative AI apps without code using Amazon Bedrock/PartyRock: rapid prototyping, best practices and a closing hackathon challenge.
 - 🕹️ **[arkanoidcpp2ts](https://github.com/Carluve/arkanoidcpp2ts)** — Arkanoid, migrated from C++/SFML to TypeScript + HTML5 Canvas and deployed on Cloudflare Pages, built in a single vibe-coding session.
 - 🌐 **[carluve.github.io](https://github.com/Carluve/carluve.github.io)** — My personal portfolio site, showcasing projects and skills.
